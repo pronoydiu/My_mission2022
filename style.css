@@ -39,3 +39,42 @@ P {
 .blue {
   color: rgb(3, 3, 42);
 }
+.mission_1st {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 5%;
+  padding-left: 10px;
+  background-color: rgb(221, 221, 136);
+}
+.vision_2nd {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 5%;
+  padding-left: 10px;
+  background-color: rgb(183, 240, 221);
+}
+.goals_3rd {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 5%;
+  padding-left: 10px;
+  background-color: rgb(245, 208, 160);
+}
+.develop {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  margin: none;
+  padding-right: 20%;
+}
+.community {
+  padding-left: 20%;
+}
+#part2 {
+  font-size: 50px;
+}
+#corona_app {
+  padding-left: 10%;
+}
